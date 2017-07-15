@@ -11,3 +11,7 @@ if [[ -s "${ZDOTDIR:-$HOME}/.zprezto/init.zsh" ]]; then
 fi
 
 # Customize to your needs...
+
+# Setting for go
+export GOPATH="$HOME/dev"
+export PATH="$GOPATH/bin:$PATH"
