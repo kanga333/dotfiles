@@ -1,6 +1,6 @@
 PROJECT_DIR := $(shell pwd)
 
-.PHONY: deploy
+.PHONY: release
 release: 
 	ln -fsn $(PROJECT_DIR)/gitconfig ~/.gitconfig
 	ln -fs $(PROJECT_DIR)/zshrc ~/.zshrc
