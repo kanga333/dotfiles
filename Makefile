@@ -7,6 +7,6 @@ release:
 	ln -fs $(PROJECT_DIR)/prezto ~/.zprezto
 	ln -fs $(PROJECT_DIR)/prezto/runcoms/zlogin ~/.zlogin
 	ln -fs $(PROJECT_DIR)/prezto/runcoms/zlogout ~/.zlogout
-	ln -fs $(PROJECT_DIR)/prezto/runcoms/zpreztorc ~/.zpreztorc
+	ln -fs $(PROJECT_DIR)/zpreztorc ~/.zpreztorc
 	ln -fs $(PROJECT_DIR)/prezto/runcoms/zprofile ~/.zprofile
 	ln -fs $(PROJECT_DIR)/prezto/runcoms/zshenv ~/.zshenvre
