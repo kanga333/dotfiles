@@ -21,3 +21,4 @@ FPATH="$FPATH:/Users/kanga333/dev/src/github.com/kanga333/dotfiles/cool-peco"
 autoload -Uz cool-peco
 cool-peco
 
+bindkey -e
