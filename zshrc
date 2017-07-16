@@ -15,3 +15,9 @@ fi
 # Setting for go
 export GOPATH="$HOME/dev"
 export PATH="$GOPATH/bin:$PATH"
+
+# Setting for cool-peco 
+FPATH="$FPATH:/Users/kanga333/dev/src/github.com/kanga333/dotfiles/cool-peco"
+autoload -Uz cool-peco
+cool-peco
+
