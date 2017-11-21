@@ -20,3 +20,4 @@ release_office:
 	ln -fs $(PROJECT_DIR)/zpreztorc ~/.zpreztorc
 	ln -fs $(PROJECT_DIR)/prezto/runcoms/zprofile ~/.zprofile
 	ln -fs $(PROJECT_DIR)/prezto/runcoms/zshenv ~/.zshenvre
+	ln -fs $(PROJECT_DIR)/terraformrc ~/.terraformrc
