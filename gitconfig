@@ -2,6 +2,6 @@
 	name = kanga333
 	email = e411z7t40w@gmail.com
 [ghq]
-	root = /Users/kanga333/dev/src
+	root = ~/dev/src
 [core]
-	excludesfile = /Users/kanga333/.gitignore_global
+	excludesfile = ~/.gitignore_global
