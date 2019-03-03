@@ -25,7 +25,7 @@ export GOPATH="$HOME/dev"
 export PATH="$GOPATH/bin:$PATH"
 
 # Setting for python
-export PATH="~/Library/Python/3.7/bin:$PATH"
+export PATH="$HOME/Library/Python/3.7/bin:$PATH"
 
 # Setting for cool-peco 
 FPATH="$FPATH:$GOPATH/src/github.com/kanga333/dotfiles/cool-peco"
